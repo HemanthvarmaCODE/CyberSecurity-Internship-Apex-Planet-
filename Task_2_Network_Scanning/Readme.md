@@ -15,7 +15,7 @@ To identify live hosts, open ports, and assess vulnerabilities on the target (Me
 
 ### 1. Nmap Scan Results
 **Objective:** Identify open ports and service versions.
-![Nmap Scan](Evidence_Screenshots/nmap_scan.png)
+![Nmap Scan](Evidence_Screenshots/nmap1.png)
 *(Note: Please ensure you renamed your screenshot to 'nmap_scan.png' inside the Evidence folder)*
 
 ### 2. Traffic Analysis (Wireshark)
@@ -25,7 +25,7 @@ To identify live hosts, open ports, and assess vulnerabilities on the target (Me
 
 ### 3. Firewall Blocking
 **Objective:** Proof that Port 80 was blocked using IPTables.
-![Firewall Proof](Evidence_Screenshots/firewall.png)
+![Firewall Proof](Evidence_Screenshots/firewall_working.png)
 *(Note: Please ensure you renamed your screenshot to 'firewall.png')*
 
 ---
